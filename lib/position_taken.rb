@@ -6,5 +6,6 @@ def position_taken?(board, index)
   elsif check == ""
     false
   elsif check == "X" || check == "O"
+    end
   end
 end
